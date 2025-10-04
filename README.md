@@ -7,3 +7,7 @@
 - [LiveWallpapers4Free  ](https://livewallpapers4free.com/)
 - [Desktop Hut](https://www.desktophut.com/)
 - [Hao wallpapers](https://haowallpaper.com/)
+
+## Static Wallpaper
+- [Wallhaven](https://wallhaven.cc/)
+  
